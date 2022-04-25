@@ -1,0 +1,41 @@
+.content{
+    background-color: #aeb1b4;
+    padding: 4em;
+    margin: 5em;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    color: rgb(119, 122, 122);
+    font-size: 30px;
+}
+#item{
+    width: 900px;
+    height: 50px;
+    padding-left: 20px;
+    border-style: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+ul li{
+    width: 900px;
+    height: 50px;
+    list-style: none;
+    font-size: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+
+}
+li{
+    padding-left: 20px;
+    padding-top: 15px;
+
+}
+li .checkbox{
+    margin-left: 50px;
+}
+#list{
+    padding: 0;
+
+}
